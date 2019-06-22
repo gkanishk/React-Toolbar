@@ -1,0 +1,22 @@
+.tButton {
+    height: 20px;
+    width: 30px;
+    background: transparent;
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+    justify-content: space-between;
+    cursor: pointer;
+    box-sizing: border-box;
+    border: none;
+}
+
+.buttonClass {
+    background: transparent;
+}
+
+.innerLine {
+    width: 30px;
+    height: 2px;
+    background: rgb(180, 154, 116);
+}
